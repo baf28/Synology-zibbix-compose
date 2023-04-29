@@ -1,4 +1,4 @@
-# zibbix-docker-compose fo Synology DSM 7.2
+# zibbix-docker-compose for Synology DSM 7.2
 
 Данный файлы я сделал для установки Zabbix в Container Manager (Docker) на Synology DSM 7.2 И более новых
 
